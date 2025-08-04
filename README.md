@@ -15,3 +15,8 @@
 1) Voice-input
 2) Transcription Prompt:"Transcribe this audio exactly as spoken. Output only the spoken words, ignore background noise, music, or sounds. Do not add punctuation or formatting unless clearly spoken. Avoid using markdown format at all costs."
 3) Each sub-agent.
+
+---
+
+**Final Video Submission**
+
