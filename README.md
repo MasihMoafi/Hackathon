@@ -25,3 +25,5 @@ This video demonstrates a real-world interaction with Juliette. The demonstratio
 *   **Part 2: Mental Wellness - Actionable Comfort:** This segment demonstrates Juliette's ability to act. When the user expresses heartbreak, Juliette accesses its long-term memory to recall the user's favorite breakup song and then utilizes a PlayWright MCP tool to play it on YouTube, offering comfort through a personal and proactive gesture.
 *   **Part 3: Health Agent (Conceptual Framework for Mobile):** This section presents the framework for the Health Assistant. For instance, for a user with Type 1 Diabetes, the agent could integrate with a health app to monitor glucose levels in real-time. Using its native vision capabilities to analyze a restaurant menu, it could then provide safe, personalized dietary suggestions.
 *   **Part 4: The Trainer (Conceptual Framework for Mobile):** The final segment demonstrates the conceptual framework for a personal fitness coach. Here, Gemma 3n would use its vision capabilities to analyze the user's exercise form and provide real-time, corrective feedback.
+
+Link to the video: [https://www.youtube.com/watch?v=FosUDxWxSQA] 
